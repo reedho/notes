@@ -1,0 +1,8 @@
+*  Notes
+
+Repo ini berisi catatan dan bahan yang saya kumpulkan dari beragam sumber
+terkait pemrograman dan pendidikannya secara umum.
+
+** Contents 
+
+- [[file:a-guide-to-programming-the-hard-way.org][A Guide to Programming The Hard Way]]

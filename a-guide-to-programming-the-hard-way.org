@@ -1,0 +1,94 @@
+#+BEGIN_QUOTE
+/Workshop :: (noun) a meeting at which a group of people engage in intensive discussion
+and activity on a particular subject or project./
+#+END_QUOTE
+
+* A Guide to Programming The Hard Way
+
+#+BEGIN_CENTER
+Mini workshop for novice informatic students University of Lampung \\
+November 2017
+#+END_CENTER
+
+
+** Ringkasan
+
+Workshop ini ditujukan untuk mahasiswa komputer/informatika pemula yang mau
+mengembangkan bakat dan ketrampilannya pada bidang pengembangan perangkat lunak
+dan ilmu komputer.
+
+Kita akan mulai dengan menyiapkan lingkungan kerja (environment) sebagaimana
+umumnya digunakan oleh para programmer profesional, dilanjutkan dengan mengulas
+intisari pengembangan perangkat lunak dengan bahasa pemrograman ~Python~
+sehingga partisipan mengerti dengan baik dan benar ruang lingkup dan alur kerja
+seorang programmer.
+
+Industri software development berkembang sangat cepat. Seorang programmer
+dituntut untuk selalu berkembang dan memperbaharui kepiawaiannya. Menjadi
+seorang profesional di bidang software engineering berarti menerima kenyataan
+bahwa bidang ini akan terus berubah seiring informasi baru dan penelitian
+menuntutnya.
+
+Untuk membangkitkan motivasi kita menghadapi persoalan ini, selanjutnya akan
+diperkenalkan bahasa pemrograman ~Haskell~. Sekilas, Haskell sangat berbeda dan
+lebih rumit dibandingkan bahasa pemrograman imperative seperti ~C~, ~Java~ atau
+~Python~. Namun, bagi yang mampu menggunakannya, Haskell adalah tool yang sangat
+baik, membolehkan kita bekerja secara lebih tepat, dan mengurangi kecenderungan
+terjadinya kesalahan (bug), apalagi untuk jangka panjang dan skala yang lebih
+besar. 
+
+Tentu saja diperlukan usaha lebih keras bisa menggunakan ~Haskell~, jadi,
+siapkan mental dan sejumlah ketekunan, kesabaran dan kemauan untuk bekerja dan
+terus berlatih yang sedianya dipicu dari workshop ini.
+
+** Agenda
+
+- Intro, OS & Environment setup (30 minutes)
+- Python recap (30 minutes)
+- Haskell (90 minutes)
+- Closing (30 minutes)
+
+
+** Prasyarat
+
+Partisipan sedianya mempersiapkan hal-hal berikut: 
+
+- Komputer/laptop
+- Menggunakan Linux sangat dianjurkan
+- Terpasang setidak nya 1 interpreter atau compiler bahasa pemrograman yang
+  digunakan dalam kuliah
+- Mempunyai text editor yang handal seperti ~Vim~ atau ~Emacs~ sangat dianjurkan
+
+Beberapa dokumen pendukung untuk memenuhi prasyarat diatas dilampirkan
+terpisah. Sangat dianjurkan partisipan sudah membaca dan mengamalkan petunjuk
+dalam dokumen-dokumen tersebut sebelum mengikuti workshop ini.
+
+Catatan: 
+
+- Dokumen-dokumen yang dilampirkan adalah legal untuk disebarluaskan dan hak
+  cipta pada pembuatnya masing-masing.
+- Disarankan untuk kembali mengecek dan menggunakan atau menyesuaikan dengan
+  versi yang terbaru dari masing-masing software yang digunakan.
+
+
+** Lampiran
+
+Linux Operating System:
+
+1. ~ebook_ubuntu_forum_-indonesia.pdf~
+2. ~Instalasi-Linux-Ubuntu-10.04-LTS.pdf~
+3. "~IlmuKomputer_Cepat Mahir Linux.pdf~"
+
+Emacs Text Editor:
+
+1. ~dokumen.tips_tutorial-emacs-bahasa-indonesia-by-sopier.pdf~
+
+Python: 
+
+1. ~PythonCrashCourse.pdf~
+2. ~byte_of_python.pdf~
+
+Haskell: 
+
+1. ~haskell-cs240h-basics-01.pdf~
+2. ~dasar-haskell.pdf~
