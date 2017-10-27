@@ -6,3 +6,5 @@ terkait pemrograman dan pendidikannya secara umum.
 ** Contents 
 
 - [[file:a-guide-to-programming-the-hard-way.org][A Guide to Programming The Hard Way]]
+- [[file:an-exploration-to-the-complex-world-of-software-development.org][An Exploration to the Complex World of Sofware Development]]
+
