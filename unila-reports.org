@@ -1,0 +1,187 @@
+* Laporan Kegiatan Workshop @ Universitas Lampung 16-18 November 2017
+
+** Sesi 
+
+1. Kamis, 16-Nov-2017 13:30 s.d. 17:00 - Angkatan 2017
+2. Jumat, 17-Nov-2017 08:00 s.d. 11:00 - Angkatan 2015
+3. Jumat, 17-Nov-2017 14:00 s.d. 17:00 - Angkatan 2016
+4. Sabtu, 18-Nov-2017 08:30 s.d. 13:30 - Angkatan 2014
+
+
+** Umum
+
+Secara umum, 3 agenda utama kegiatan workshop ini adalah: 
+
+1. Mengadvokasi penggunaan Linux sebagai OS utama menggantikan Windows.
+
+2. Memperkenalkan text editor yang sangat handal yaitu Emacs.
+
+3. Menganjurkan untuk mempelajari dan menggunakan lebih dari 1 bahasa
+   pemrograman, kemudian mengeksplorasinya untuk mengetahui kekurangan dan
+   kelebihan satu sama lain. Dalam workshop ini kita perkenalkan 3 bahasa
+   pemrograman populer, yaitu: Python, Haskell, & Clojure.
+
+Mahasiswa tingkat awal (2015 - 2017) mendapatkan sesi dengan judul "A Guide to
+Programming The Hard Way", sedangkan mahasiswa tingkat akhir (2014) mendapatkan
+sesi dengan judul "Exploring 'Complex' World of Software Development".
+
+
+** Slide
+
+1. [[file:PHW.pdf][PHW.pdf - slide "Programming The Hard Way"]]
+
+2. [[file:ECWSD.pdf][ECWSD.pdf - slide "Exploring Complex World of Sotware Development"]]
+
+
+** Materi & Jalannya Kegiatan
+
+*** Linux 
+
+- Linux ada dimana-mana. Device kecil pintar seperti gelang, jam tangan, telepon
+  seluler, dan lain-lain hampir seluruhnya berbasis Linux. Top 500 superkomputer
+  saat ini sudah menggunakan OS Linux.
+
+- Menggunakan Windows tanpa lisensi adalah ilegal, melanggar hukum, dan berdosa
+  secara Agama. Menggunakan Linux tidak perlu biaya, hanya perlu kemauan dan
+  usaha. Linux tidak kalah mudah pengoperasiannya dibanding Windows, jika, dan
+  hanya jika kita mulai menggunakannya untuk segala keperluan.
+
+- Menggunakan Linux akan membuka pikiran dan cakrawala untuk lebih mengenal
+  sistem komputer, misalnya, apakah itu shell, kernel, file-system, platform
+  CPU, dan lain-lain. Mulai menggunakan Linux berarti telah mendapatkan kunci
+  untuk mencari jawaban-jawaban dari semua keingintahuan kita mengenai sistem
+  komputer.
+
+- Mengeksplorasi Linux tidak kalah menantang dibandingkan aktifitas bermain
+  game. Semua informasi yang kita perlukan sudah tersedia, kode sumber kernel
+  dan semua aplikasi yang berjalan diatasnya sangat mudah kita dapatkan, bisa
+  kita baca dan pelajari, bahkan boleh kita modifikasi sesuai keinginan.
+
+- Linux adalah platform yang sudah menjadi standar de-facto semua perusahaan
+  software. Meskipun tahun-tahun ini hanya 1 dari 10 mahasiswa baru lulus
+  pencari kerja yang menggunakan Linux, dalam beberapa tahun kedepan, kemampuan
+  penggunaan Linux akan menjadi suatu keharusan. Dengan kata lain, tidak bisa
+  menggunakan Linux berarti menutup pintu gerbang awal karir kita pada dunia
+  komputer dan informatika.
+
+- Jadi, tidak ada alasan untuk tidak menggunakan Linux *sekarang*, mulailah
+  petualangan menggunakan Linux dan rasakan sendiri bagaimana kemampuan anda
+  akan meningkat secara cepat.
+
+- Selanjutnya, bagi kita mahasiswa informatika, sedianya tidak cukup hanya
+  kemampuan menggunakan saja yang kita kuasai, kita harus lebih dari itu. Untuk
+  itu, silahkan selesaikan petualangan pada website ini:
+  http://www.buildyourownlinux.com/.
+
+- Dalam sesi workshop ini, terkait terbatasnya waktu dan tingkat kemampuan
+  peserta yang sangat beragam dan masih cukup rendah, kita mendemonstrasikan
+  instalasi Linux menggunakan platform VirtualBox.
+
+
+*** Emacs
+
+- Emacs: The hightly extensible text editor - Adalah text editor (sama seperti
+  notepad, notepad++, sublime text dan lain-lain) yang sangat handal.
+
+- Emacs adalah editor yang "terbaik" bagi programmer, mengapa? karena ia adalah
+  text editor yang programmable.
+
+- Emacs bisa melakukan apa saja: semua hal terkait text processing, browsing
+  internet dan sosial media, hacking, coding, manajemen todo dan jadwal, dan
+  masih sangat banyak hal-hal menarik lainnya bisa dilakukan dalam Emacs.
+
+- Kemampuan menggunakan Emacs adalah sesuatu yang sangat spesial. Ini adalah
+  editor yang digunakan oleh semua programmer 'beken', yang mana cukup
+  menyebutkan namanya saja orang yang mendengar nya akan segera menangkap bahwa
+  anda bukan programmer biasa. Hanya 1 dari 100, bahkan lebih, mahasiswa baru
+  lulus pencari kerja yang mempunyai kemampuan ini. Jadi ini adalah salah satu
+  skill spesial yang sangat bernilai. Hanya perlu sedikit usaha dan kemauan
+  untuk bisa menggunakannya. Kemampuan ini boleh dibilang tidak bisa diajari,
+  ini adalah skill motorik sederhana yang muncul dengan sendirinya jika kita
+  langsung mempraktekkannya, ibarat seorang anak sedang belajar mengendarai
+  sepeda.
+
+- Dalam kesempatan workshop ini, sedikit kita demonstrasikan tampilan dan
+  kegunaan Emacs untuk hal-hal dasar, beberapa kelebihannya dan bagaimana
+  memulai petualangan dengan Emacs, kemudian silahkan merujuk ke website
+  http://emacs.sexy/.
+
+
+*** Python & Haskell Programming Language
+
+- Python adalah bahasa pemrograman yang direkomendasikan untuk diberikan kepada
+  mahasiswa informatika yang baru mau memulai petualangannya dalam dunia
+  pemrograman.
+
+- Sedianya peserta sudah menggunakan Python untuk mendukung salah satu mata
+  kuliah dasar pemrograman. Karena keterbatasan waktu dan persiapan live coding
+  dari instruktur yang kurang, sesi ini dimulai dengan membahas dasar-dasar
+  pemrograman Python dan beberapa tips.
+
+- Haskell adalah bahasa pemrograman pure functional yang awalnya besar dalam
+  lingkungan akademis, saat ini mulai menjadi populer karena paradigma
+  functional mulai menunjukkan eksistensi dan kelebihannya dalam memudahkan
+  pengembangan aplikasi yang conccurrent dan terdistribusi. 
+
+- Beberapa dari topik dibawah ini adalah pengetahuan dasar yang *wajib*
+  dimengerti oleh seorang programmer: 
+
+  - Imperative & Object Oriented Programming: 
+
+    - Programming with "state"
+
+    - Expression vs statement
+
+    - Basic (primitive) data type and compound data type
+
+    - Function vs procedure
+
+    - Object Oriented: Encapsulation, Inheritance, Polymorphism.
+
+  - Functional Programming:
+
+    - Lambda Calculus: Expressing computation based on function abstraction and
+      function application using variable binding and substitution.
+
+    - Higher Order Function
+
+    - Immutability
+
+    - No side-effect
+
+
+*** Clojure & ClojureScript + React & ReactNative
+
+- Clojure adalah bahasa pemrograman functional (tidak pure functional seperti
+  Haskell) yang berjalan diatas Java Virtual Machine.
+
+- Berangkat dari prinsip "Simple" sebagai filosofi utama pengembangannya,
+  lahirlah kombinasi dari C#, Lisp dan Java dalam suatu bahasa pemrograman yang
+  handal dan praktis yaitu Clojure. 
+
+- Terkait keterbatasan waktu, keberagaman tingkat pengetahuan dan kemampuan
+  peserta, juga nilai ketertarikan peserta terhadap bahasa pemrograman ini atas
+  topik yang menjadi kelebihan Clojure, tidak kita bahas secara khusus tinjauan
+  filosofis bagaimana Clojure menyediakan tools yang elegan, powerful, praktis
+  dan sangat menyenangkan untuk dieksplorasi.
+
+- Dalam kesempatan workshop ini, kita demonstrasikan penggunaan Clojure REPL
+  (Read, eval, print loop) untuk memperkenalkan bagaimana "Lisp" tidak mempunyai
+  sintaks (everything is a list, and list all the way down), live coding
+  environment dengan dukungan Emacs, dan menunjukkan bahwasanya Emacs+Clojure
+  menyediakan sarana eksplorasi untuk pustaka library terbesar di planet ini,
+  yaitu pustaka library Java.
+
+- Sesi workshop ini juga memperkenalkan functional front-end library yang dibuat
+  oleh Facebook, yaitu ReactJS. ReactJS sangat populer digunakan saat ini,
+  mengusung teknik functional programming pada lingkungan bahasa pemrograman
+  JavaScript, memberikan paradigma dan pengalaman baru dalam membuat aplikasi
+  yang berjalan pada browser (Chrome, Firefox, Safari, IE dan lain-lain). Teknik
+  ReactJS bisa diaplikasikan tidak hanya untuk lingkungan browser, adalah "React
+  Native" dimana kita bisa membuat aplikasi native (Android, IOS, OSX, UWP)
+  menggunakan teknologi ReactJS. ClojureScript adalah implementasi Clojure yang
+  menargetkan platform JavaScript, memberikan tools yang powerful dan
+  menyenangkan dalam bereksplorasi pustaka library yang tak kalah besar, yaitu
+  ekosistem Node JS. Kita mendemonstrasikan secara cepat bagaimana membuat
+  aplikasi IOS dengan ClojureScript sudah sangat dimudahkan dengan kemampuan
+  REPL dan live-reloading.
