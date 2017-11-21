@@ -5,6 +5,13 @@ terkait pemrograman dan pendidikannya secara umum.
 
 ** Contents 
 
+*** workshop Universitas Lampung November 2017
+
+Agenda & Materi:
+
 - [[file:a-guide-to-programming-the-hard-way.org][A Guide to Programming The Hard Way]]
 - [[file:an-exploration-to-the-complex-world-of-software-development.org][An Exploration to the Complex World of Sofware Development]]
 
+Reportase:
+
+- [[file:unila-reports.org][Laporan Kegiatan Workshop @ Universitas Lampung 16-18 November 2017]]
